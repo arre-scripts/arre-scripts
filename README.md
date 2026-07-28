@@ -1,4 +1,4 @@
-## Hello there 👋
-Currently working on [Valex](https://github.com/Valex-app)
+## Hey there, I'm Arvid
 
-Golf enjoyer ⛳
+#### Programming Languages
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,javascript,typescript,lua,reactjs)](https://github.com/syvixor/skills-icons)
